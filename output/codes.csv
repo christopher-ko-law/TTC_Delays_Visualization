@@ -1,0 +1,201 @@
+,Code,Code Description,Type
+1,EUAC,Air Conditioning,SUB RMENU CODE
+2,EUAL,Alternating Current,SUB RMENU CODE
+3,EUATC,ATC RC&S Equipment,SUB RMENU CODE
+4,EUBK,Brakes,SUB RMENU CODE
+5,EUBO,Body,SUB RMENU CODE
+6,EUCA,Compressed Air,SUB RMENU CODE
+7,EUCD,Consequential Delay (2nd Delay Same Fault),SUB RMENU CODE
+8,EUCH,Chopper Control,SUB RMENU CODE
+9,EUCO,Couplers,SUB RMENU CODE
+10,EUDO,Door Problems - Faulty Equipment,SUB RMENU CODE
+11,EUECD,ECD / Line Mechanic Related Prob.,SUB RMENU CODE
+12,EUHV,High Voltage,SUB RMENU CODE
+13,EULT,Lighting System,SUB RMENU CODE
+14,EULV,Low Voltage,SUB RMENU CODE
+15,EUME,RC&S Maintenance Error - (Human),SUB RMENU CODE
+16,EUNEA,No Equipment Available,SUB RMENU CODE
+17,EUNT,Equipment - No Trouble Found,SUB RMENU CODE
+18,EUO,RC&S Other,SUB RMENU CODE
+19,EUOE,Rail Cars & Shops Opr. Error,SUB RMENU CODE
+20,EUOPO,OPTO RC&S Non-Train Door Monitoring,SUB RMENU CODE
+21,EUPI,Propulsion System,SUB RMENU CODE
+22,EUSC,Speed Control Equipment  ,SUB RMENU CODE
+23,EUTL,Trainline System,SUB RMENU CODE
+24,EUTM,Traction Motors,SUB RMENU CODE
+25,EUTR,Trucks,SUB RMENU CODE
+26,EUTRD,TR Cab Doors,SUB RMENU CODE
+27,EUVA,Warning Alarm Systems,SUB RMENU CODE
+28,EUVE,Work Vehicle,SUB RMENU CODE
+29,EUYRD,Yard/Carhouse Related Problems,SUB RMENU CODE
+30,MUATC,ATC Project,SUB RMENU CODE
+31,MUCL,Divisional Clerk Related,SUB RMENU CODE
+32,MUD,Door Problems - Passenger Related,SUB RMENU CODE
+33,MUDD,Door Problems - Debris Related,SUB RMENU CODE
+34,MUEC,Misc. Engineering & Construction Related Problems,SUB RMENU CODE
+35,MUESA,No Operator Immediately Available,SUB RMENU CODE
+36,MUFM,Force Majeure,SUB RMENU CODE
+37,MUFS,Fire/Smoke Plan B - Source External to TTC,SUB RMENU CODE
+38,MUGD,Miscellaneous General Delays,SUB RMENU CODE
+39,MUI,Injured or ill Customer (On Train) - Transported,SUB RMENU CODE
+40,MUIE,Injured Employee,SUB RMENU CODE
+41,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused,SUB RMENU CODE
+42,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused,SUB RMENU CODE
+43,MUIS,Injured or ill Customer (In Station) - Transported,SUB RMENU CODE
+44,MULD,Labour Dispute - Subway,SUB RMENU CODE
+45,MUNOA,No Operator Immediately Available - Not E.S.A. Related ,SUB RMENU CODE
+46,MUO,Miscellaneous Other,SUB RMENU CODE
+47,MUODC,Overhead Door Contact,SUB RMENU CODE
+48,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found,SUB RMENU CODE
+49,MUPLA,Fire/Smoke Plan A,SUB RMENU CODE
+50,MUPLB,Fire/Smoke Plan B - Source TTC,SUB RMENU CODE
+51,MUPLC,Fire/Smoke Plan C,SUB RMENU CODE
+52,MUPR1,Priority One - Train in Contact With Person,SUB RMENU CODE
+53,MUSAN,Unsanitary Vehicle,SUB RMENU CODE
+54,MUSC,Miscellaneous Speed Control,SUB RMENU CODE
+55,MUTD,Training Department Related Delays,SUB RMENU CODE
+56,MUTO,Misc. Transportation Other - Employee Non-Chargeable,SUB RMENU CODE
+57,MUWEA,Weather Reports / Related Delays,SUB RMENU CODE
+58,MUWR,Work Refusal,SUB RMENU CODE
+59,PUATC,ATC Signals Other,SUB RMENU CODE
+60,PUCBI,Central Logic Controller Failure,SUB RMENU CODE
+61,PUCSC,Signal Control Problem - Signals,SUB RMENU CODE
+62,PUCSS,Central Office Signalling System,SUB RMENU CODE
+63,PUDCS,Data Communications System Failure,SUB RMENU CODE
+64,PUMEL,Escalator/Elevator Incident,SUB RMENU CODE
+65,PUMO,Station Other,SUB RMENU CODE
+66,PUMST,Station Stairway Incident ,SUB RMENU CODE
+67,PUOPO,OPTO (COMMS) Train Door Monitoring,SUB RMENU CODE
+68,PUSAC,Signals Axle Counter Block Failure,SUB RMENU CODE
+69,PUSBE,Beacon Failure,SUB RMENU CODE
+70,PUSCA,SCADA Related Problems ,SUB RMENU CODE
+71,PUSCR,Subway Car Radio Fault ,SUB RMENU CODE
+72,PUSEA,EAS Failure                               ,SUB RMENU CODE
+73,PUSI,Signals or Related Components Failure ,SUB RMENU CODE
+74,PUSIO,Smart IO Failure,SUB RMENU CODE
+75,PUSIS,Signals Track Weather Related,SUB RMENU CODE
+76,PUSLC,Signals Line Countroller Failure,SUB RMENU CODE
+77,PUSNT,Signal Problem - No Trouble,SUB RMENU CODE
+78,PUSO,S/E/C Department Other,SUB RMENU CODE
+79,PUSRA,Subway Radio System Fault ,SUB RMENU CODE
+80,PUSSW,Track Switch Failure - Signal Related Problem,SUB RMENU CODE
+81,PUSTC,Signals - Track Circuit Problems,SUB RMENU CODE
+82,PUSTP,Traction Power or Related Components Failure,SUB RMENU CODE
+83,PUSTS,Signals - Train Stops,SUB RMENU CODE
+84,PUSWZ,Work Zone Problems - Signals,SUB RMENU CODE
+85,PUSZC,Signals Zone Countroller Failure,SUB RMENU CODE
+86,PUTCD,T & S Contractor Problems,SUB RMENU CODE
+87,PUTD,Track Level Debris - Controllable,SUB RMENU CODE
+88,PUTDN ,Debris At Track Level - Uncontrollable,SUB RMENU CODE
+89,PUTIJ,Insulated Joint Related Problem,SUB RMENU CODE
+90,PUTIS,Ice / Snow Related Problems,SUB RMENU CODE
+91,PUTNT,T&S Related Problem - NTF,SUB RMENU CODE
+92,PUTO,T&S Other,SUB RMENU CODE
+93,PUTOE,T & S Operator Related Problems,SUB RMENU CODE
+94,PUTR,Rail Related Problem,SUB RMENU CODE
+95,PUTS,Structure Related Problem,SUB RMENU CODE
+96,PUTSC,Signal Control Problem - Track,SUB RMENU CODE
+97,PUTSM,Track Switch Failure - Track Related Problem,SUB RMENU CODE
+98,PUTTC,Track Circuit Problems - Re: Defective Bolts/Bonding,SUB RMENU CODE
+99,PUTTP,Traction Power Rail Related,SUB RMENU CODE
+100,PUTWZ,Work Zone Problems - Track,SUB RMENU CODE
+101,SUAE,Assault / Employee Involved,SUB RMENU CODE
+102,SUAP,Assault / Patron Involved,SUB RMENU CODE
+103,SUBT,Bomb Threat,SUB RMENU CODE
+104,SUCOL,Collector Booth Alarm Activated,SUB RMENU CODE
+105,SUDP,Disorderly Patron,SUB RMENU CODE
+106,SUEAS,Emergency Alarm Station Activation,SUB RMENU CODE
+107,SUG,Graffiti / Scratchiti,SUB RMENU CODE
+108,SUO,Passenger Other,SUB RMENU CODE
+109,SUPOL,Held By Polce - Non-TTC Related,SUB RMENU CODE
+110,SUROB,Robbery,SUB RMENU CODE
+111,SUSA,Sexual Assault,SUB RMENU CODE
+112,SUSP,Suspicious Package,SUB RMENU CODE
+113,SUUT,Unauthorized at Track Level,SUB RMENU CODE
+114,TUATC,ATC Operator Related,SUB RMENU CODE
+115,TUCC,Transit Control Related Problems,SUB RMENU CODE
+116,TUDOE,Doors Open in Error,SUB RMENU CODE
+117,TUKEY,Two Drum Switch Keys Activated,SUB RMENU CODE
+118,TUML,Mainline Storage,SUB RMENU CODE
+119,TUMVS,Operator Violated Signal,SUB RMENU CODE
+120,TUNIP,Operator Not In Position,SUB RMENU CODE
+121,TUNOA,No Operator Immediately Available ,SUB RMENU CODE
+122,TUO,Transportation Department - Other,SUB RMENU CODE
+123,TUOPO,OPTO Operator Related,SUB RMENU CODE
+124,TUOS,Operator Overshot Platform,SUB RMENU CODE
+125,TUS,Crew Unable to Maintain Schedule,SUB RMENU CODE
+126,TUSC,Operator Overspeeding,SUB RMENU CODE
+127,TUSET,Train Controls Improperly Shut Down,SUB RMENU CODE
+128,TUST,Storm Trains,SUB RMENU CODE
+129,TUSUP,Supervisory Error,SUB RMENU CODE
+131,ERAC,Air Conditioning,SRT RMENU CODE
+132,ERBO,Body,SRT RMENU CODE
+133,ERCD,Consequential Delay (2nd Delay Same Fault),SRT RMENU CODE
+134,ERCO,Couplers,SRT RMENU CODE
+135,ERDB,Disc Brakes,SRT RMENU CODE
+136,ERDO,Door Problems - Faulty Equipment,SRT RMENU CODE
+137,ERHV,High Voltage,SRT RMENU CODE
+138,ERLT,Lighting System,SRT RMENU CODE
+139,ERLV,Low Voltage,SRT RMENU CODE
+140,ERME,RC&S Maintenance Error - (Human),SRT RMENU CODE
+141,ERNEA,No Equipment Available,SRT RMENU CODE
+142,ERNT,Equipment - No Trouble Found,SRT RMENU CODE
+143,ERO,RC&S Other,SRT RMENU CODE
+144,ERPR,Propulsion System,SRT RMENU CODE
+145,ERRA,Radio,SRT RMENU CODE
+146,ERTB,Track Brakes,SRT RMENU CODE
+147,ERTC,Train Control - VOBC,SRT RMENU CODE
+148,ERTL,Trainline System,SRT RMENU CODE
+149,ERTR,Trucks,SRT RMENU CODE
+150,ERVE,Vehicle,SRT RMENU CODE
+151,ERWA,Warning Alarm Systems,SRT RMENU CODE
+152,ERWS,Wind Shield,SRT RMENU CODE
+153,MRCL,Divisional Clerk Related,SRT RMENU CODE
+154,MRD,Door Problems - Passenger Related,SRT RMENU CODE
+155,MRDD,Door Problems - Debris Related,SRT RMENU CODE
+156,MREC,Misc. Engineering & Construction Related Problems,SRT RMENU CODE
+157,MRESA,No Operator Immediately Available,SRT RMENU CODE
+158,MRFS,Fire/Smoke Plan B - Source External to TTC,SRT RMENU CODE
+159,MRIE,Injured Employee,SRT RMENU CODE
+160,MRLD,Labour Dispute - Subway,SRT RMENU CODE
+161,MRNOA,No Operator Immediately Available - Not E.S.A. Related ,SRT RMENU CODE
+162,MRO,Miscellaneous Other,SRT RMENU CODE
+163,MRPAA,Passenger Assistance Alarm Activated - No Trouble Found,SRT RMENU CODE
+164,MRPLA,Fire/Smoke Plan A,SRT RMENU CODE
+165,MRPLB,Fire/Smoke Plan B,SRT RMENU CODE
+166,MRPLC,Fire/Smoke Plan C,SRT RMENU CODE
+167,MRPR1,Priority One - Train in Contact With Person,SRT RMENU CODE
+168,MRSAN,Unsanitary Vehicle,SRT RMENU CODE
+169,MRSTM,Scheduled Track Maintenance,SRT RMENU CODE
+170,MRTO,Timeout,SRT RMENU CODE
+171,MRUI,Injured or ill Customer (On Train) - Transported,SRT RMENU CODE
+172,MRUIR,Injured or ill Customer (On Train) - Medical Aid Refused,SRT RMENU CODE
+173,MRWEA,Weather Reports / Related Delays,SRT RMENU CODE
+174,PREL,Escalator/Elevator Incident,SRT RMENU CODE
+175,PRO,Other,SRT RMENU CODE
+176,PRS,VCC/RCIU/CCR,SRT RMENU CODE
+177,PRSA,Axle Counter Related,SRT RMENU CODE
+178,PRSL,Loop Related Failures,SRT RMENU CODE
+179,PRSO,Signals Other,SRT RMENU CODE
+180,PRSP,Signals Power Supply Related,SRT RMENU CODE
+181,PRST,Station Stairway Incident ,SRT RMENU CODE
+182,PRSW,Switch Related,SRT RMENU CODE
+183,PRTST,Signals - Train Stops,SRT RMENU CODE
+184,PRW,Rail Defect/Fastenings/Power Rail,SRT RMENU CODE
+185,SRAE,Assault / Employee Involved,SRT RMENU CODE
+186,SRAP,Assault / Patron Involved,SRT RMENU CODE
+187,SRBT,Bomb Threat,SRT RMENU CODE
+188,SRCOL,Collector Booth Alarm Activated,SRT RMENU CODE
+189,SRDP,Disorderly Patron,SRT RMENU CODE
+190,SREAS,Emergency Alarm Station Activation,SRT RMENU CODE
+191,SRO,Passenger Other,SRT RMENU CODE
+192,SRSA,Sexual Assault,SRT RMENU CODE
+193,SRSP,Suspicious Package,SRT RMENU CODE
+194,SRUT,Unauthorized at Track Level,SRT RMENU CODE
+195,TRDOE,Doors Open in Error,SRT RMENU CODE
+196,TRNIP,Operator Not In Position,SRT RMENU CODE
+197,TRNOA,No Operator Immediately Available ,SRT RMENU CODE
+198,TRO,Transportation Department - Other,SRT RMENU CODE
+199,TRSET,Train Controls Improperly Shut Down,SRT RMENU CODE
+200,TRST,Storm Trains,SRT RMENU CODE
+201,TRTC,Transit Control Related Problems,SRT RMENU CODE
